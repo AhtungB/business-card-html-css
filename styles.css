@@ -1,0 +1,87 @@
+body {
+  background-image: url(https://wallpapercave.com/wp/wp8963342.png);
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.full-name {
+  margin-top: 20px;
+  font-size: 25px;
+}
+
+.designation {
+  font-size: 20px;
+  color: rgb(93, 93, 93);
+}
+
+.company {
+  font-size: 17px;
+  color: rgb(128, 128, 128);
+}
+
+:root {
+  --dark: rgb(71, 70, 70);
+  --accent: #8AA9A0; 
+}
+
+.business-card {
+  width: 80%; 
+  max-width: 350px;
+  min-width: 235px;
+  background-color: #e0e8e5;
+  padding: 20px;
+  margin: 0 auto;
+  border: 3px solid var(--dark);
+}
+
+.profile-image {
+  display: block;
+  width: 70%;
+  max-width: 200px;
+  margin: 0 auto;
+  border: 3px solid var(--accent);
+}
+
+.social-media {
+  font-style: normal;
+}
+
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  font-size: 20px
+}
+
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 1.5px;
+  background-color: var(--accent);
+  border: none;
+}
+
+a {
+  color: var(--dark);
+}
+
+a:visited {
+  color: var(--dark);
+}
+
+a:hover {
+  color: #A0B2A3;
+}
+
+a:active {
+  color: #A0B2A3;
+}
+
+.first-connect, .second-connect {
+  display: inline-block;
+  margin-right: 20px;
+}

@@ -29,3 +29,41 @@ The result is a responsive business card that can be used as a personal introduc
 
 ## 📂 Project Structure
 
+business-card-html-css/
+│
+├── index.html
+├── styles.css
+└── README.md
+
+
+## 🚀 Live Demo
+
+You can view the project here:  
+👉 https://ahtungb.github.io/business-card-html-css/
+
+## 📈 What I Learned
+
+- How to structure a small project properly
+- How margin and padding affect layout
+- How `inline-block` works
+- How to center elements using `margin: 0 auto`
+- How to use CSS variables for better maintainability
+- How to prepare a project for GitHub
+
+## 🔮 Possible Improvements
+
+- Add Flexbox for layout
+- Add dark mode
+- Add subtle animations
+- Convert to a full portfolio landing page
+
+## 👤 Author
+
+**Timofey Buinevich**  
+Frontend Developer
+
+- Portfolio: https://ahtungb.github.io/about-me-html/
+- GitHub: https://github.com/AhtungB
+- LinkedIn: https://www.linkedin.com/
+
+
